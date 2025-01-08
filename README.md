@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Esse repositório armazena o material usado para a elaboração do artigo [**"Análise de sentimentos de conteúdo compartilhado em comunidades brasileiras do Reddit: Avaliação de um conjunto de dados rotulados por humanos"**](https://sol.sbc.org.br/index.php/webmedia/article/view/30297) e sua estensão.
+Esse repositório armazena o material usado para a elaboração do artigo [**"Análise de sentimentos de conteúdo compartilhado em comunidades brasileiras do Reddit: Avaliação de um conjunto de dados rotulados por humanos"**](https://sol.sbc.org.br/index.php/webmedia/article/view/30297) e sua extensão.
 
 ## Conteúdo
 
