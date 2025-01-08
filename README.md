@@ -21,19 +21,18 @@ Esse repositório armazena o material usado para a elaboração do artigo [**"An
 
 ## Atigo: "Análise de sentimentos de conteúdo compartilhado em comunidades brasileiras do Reddit: Avaliação de um conjunto de dados rotulados por humanos"
 
+```bibtex
 @inproceedings{webmedia,
- author = {Giovana Piorino and Vitor Moreira and Luiz Lima and Adriana Pagano and Ana Silva},
- title = { Análise de sentimentos de conteúdo compartilhado em comunidades brasileiras do Reddit: Avaliação de um conjunto de dados rotulados por humanos},
- booktitle = {Proceedings of the 30th Brazilian Symposium on Multimedia and the Web},
- location = {Juiz de Fora/MG},
- year = {2024},
- keywords = {},
- issn = {0000-0000},
- pages = {54--62},
- publisher = {SBC},
- address = {Porto Alegre, RS, Brasil},
- doi = {10.5753/webmedia.2024.242020},
- url = {https://sol.sbc.org.br/index.php/webmedia/article/view/30297}
+  author = {Giovana Piorino and Vitor Moreira and Luiz Lima and Adriana Pagano and Ana Silva},
+  title = {Análise de sentimentos de conteúdo compartilhado em comunidades brasileiras do Reddit: Avaliação de um conjunto de dados rotulados por humanos},
+  booktitle = {Proceedings of the 30th Brazilian Symposium on Multimedia and the Web},
+  location = {Juiz de Fora/MG},
+  year = {2024},
+  pages = {54--62},
+  publisher = {SBC},
+  address = {Porto Alegre, RS, Brasil},
+  doi = {10.5753/webmedia.2024.242020},
+  url = {https://sol.sbc.org.br/index.php/webmedia/article/view/30297}
 }
 
   
