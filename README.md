@@ -4,7 +4,7 @@
 
 Esse repositório armazena o material usado para a elaboração do artigo [**"Análise de sentimentos de conteúdo compartilhado em comunidades brasileiras do Reddit: Avaliação de um conjunto de dados rotulados por humanos"**](https://sol.sbc.org.br/index.php/webmedia/article/view/30297) e sua extensão.
 
-## Conteúdos
+## Conteúdo
 
 - **Dados**: um conjunto de 2000 comentários de comunidades brasileiras do Reddit rotulados em "Negativo", "Neutro", "Positivo" ou "Não sei  dizer". 
 - **Scripts**: scripts de Python para análise de sentimentos, tanto para análises textuais quanto para o uso e treinamento de modelos.
@@ -19,7 +19,7 @@ Esse repositório armazena o material usado para a elaboração do artigo [**"An
 - [Sabia-3](https://arxiv.org/abs/2410.12049)
 - [GPT-4](https://arxiv.org/abs/2303.08774)
 
-## Atigo: "Análise de sentimentos de conteúdo compartilhado em comunidades brasileiras do Reddit: Avaliação de um conjunto de dados rotulados por humanos"
+## Citação do Primeiro Artigo(Bibtex)
 
 ```bibtex
 @inproceedings{webmedia,
