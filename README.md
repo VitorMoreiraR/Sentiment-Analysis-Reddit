@@ -1,15 +1,15 @@
 # Sentiment Analysis of Shared Content in Brazilian Reddit Communities
 
-## Visão Geral
+## Geenral overview
 
-Esse repositório armazena o material usado para a elaboração do artigo [**"Análise de sentimentos de conteúdo compartilhado em comunidades brasileiras do Reddit: Avaliação de um conjunto de dados rotulados por humanos"**](https://sol.sbc.org.br/index.php/webmedia/article/view/30297) e sua extensão.
+This repository contains the material used in the preparation of the article [**"Análise de sentimentos de conteúdo compartilhado em comunidades brasileiras do Reddit: Avaliação de um conjunto de dados rotulados por humanos"**](https://sol.sbc.org.br/index.php/webmedia/article/view/30297) and its extension.
 
-## Conteúdo
+## Content
 
-- **Dados**: um conjunto de 2000 comentários de comunidades brasileiras do Reddit rotulados em "Negativo", "Neutro", "Positivo" ou "Não sei  dizer". 
-- **Scripts**: scripts de Python para análise de sentimentos, tanto para análises textuais quanto para o uso e treinamento de modelos.
+- **Data**: a set of 2,000 comments from Brazilian Reddit communities labeled as "Negative", "Neutral", "Positive", or "I don't know".
+- **Scripts**: Python scripts for sentiment analysis, including both textual analysis and model usage/training.
 
-## Modelos Usados
+## Models' references
 
 - [LeiA (Léxico para inferência Adaptada)](https://github.com/rafjaa/LeIA)
 - [Pysentimiento](https://arxiv.org/abs/2106.09462)
@@ -19,7 +19,7 @@ Esse repositório armazena o material usado para a elaboração do artigo [**"An
 - [Sabia-3](https://arxiv.org/abs/2410.12049)
 - [GPT-4](https://arxiv.org/abs/2303.08774)
 
-## Citação do Primeiro Artigo(Bibtex)
+## Citation of the Article (BibTeX)
 
 ```bibtex
 @inproceedings{webmedia,
